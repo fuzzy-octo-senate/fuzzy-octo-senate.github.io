@@ -1,14 +1,14 @@
- ---  
- layout:         bill
- category:       bills
- title:          Resolution on Religious Respect
- year:           2014-2015
- summary:        
- sponsors:       
- passed:         in 2014
- tags:           
- visualworkflow: true
- ---
+---  
+layout:         bill
+category:       bills
+title:          Resolution on Religious Respect
+year:           2014-2015
+summary:        
+sponsors:       LHS Student-Faculty Senate
+passed:         in 2014
+tags:           
+visualworkflow: true
+---
  
  Lexington is an increasingly multicultural diverse community.  LHS should respect the diversity of religious and cultural traditions of all students.
  
