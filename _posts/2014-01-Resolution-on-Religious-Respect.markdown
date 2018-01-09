@@ -1,4 +1,4 @@
----  
+ ---  
  layout:         bill
  category:       bills
  title:          Resolution on Religious Respect
